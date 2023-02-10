@@ -1,0 +1,22 @@
+* Read Privacy Notes
+** The Complexity of Differential Privacy - Salil Vadhan (2016)
+** The Algorithmic Foundations of Differential Privacy - Cynthia Dwork (2014)
+
+* Main objectives
+** Motivation of privacy
+** Definition of privacy
+** Examples of privacy mechanism
+
+* Paper to read
+** Quantum Differential Privacy: An Information Theory Perspective - Christoph Hirche (2022)
+
+* Make presentation for Milad meeting
+DEADLINE: <2023-02-24 Fri>
+- Motivation
+- Classical definition
+- Examples
+- Distance
+- Bounds
+- Quantum version
+- Distance and Bounds
+- Mechanism
